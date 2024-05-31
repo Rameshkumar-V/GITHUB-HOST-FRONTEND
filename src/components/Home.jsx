@@ -52,7 +52,7 @@ function Home() {
     <div className="Home" id="Home" ref={homeRef}>
       <div className="Home-Container animated-element-right">
         <div className="img animated-element">
-          <img src="/pic.jpg" alt="Profile" />
+          <img src="https://drive.google.com/thumbnail?id=11mEv8OdHbvPUHCO5EbGBkzpAUj4cXIGE" alt="Profile" />
         </div>
         <div className="Home-Information">
           <h4>
