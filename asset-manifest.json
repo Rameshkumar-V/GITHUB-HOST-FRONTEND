@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GITHUB-HOST-FRONTEND/static/css/main.60a27252.css",
+    "main.js": "/GITHUB-HOST-FRONTEND/static/js/main.d3492ecd.js",
+    "static/js/453.8ab44547.chunk.js": "/GITHUB-HOST-FRONTEND/static/js/453.8ab44547.chunk.js",
+    "index.html": "/GITHUB-HOST-FRONTEND/index.html",
+    "main.60a27252.css.map": "/GITHUB-HOST-FRONTEND/static/css/main.60a27252.css.map",
+    "main.d3492ecd.js.map": "/GITHUB-HOST-FRONTEND/static/js/main.d3492ecd.js.map",
+    "453.8ab44547.chunk.js.map": "/GITHUB-HOST-FRONTEND/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a27252.css",
+    "static/js/main.d3492ecd.js"
+  ]
+}
